@@ -1,0 +1,18 @@
+Registering CoAP Observe...
+URI: coap://127.0.0.1:5683/iot/lab/light01/status
+Observe registration successful  (Ctrl+C de dung)
+
+[21:44:03] Initial State
+Device: light01
+Status: OFF
+
+[21:44:08] State Updated
+Device: light01
+Status: ON
+
+[21:44:17] State Updated
+Device: light01
+Status: OFF
+
+
+Da dung theo doi.

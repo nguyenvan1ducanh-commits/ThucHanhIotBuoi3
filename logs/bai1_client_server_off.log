@@ -1,0 +1,6 @@
+CoAP Client
+
+Sending GET request...
+URI: coap://127.0.0.1:5683/iot/lab/message
+[LOI] Khong ket noi duoc server (server chua chay hoac sai dia chi)
+

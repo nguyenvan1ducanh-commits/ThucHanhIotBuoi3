@@ -1,0 +1,15 @@
+CoAP Server started on port 5683
+Resource: coap://127.0.0.1:5683/iot/lab/message  (Ctrl+C de dung)
+
+GET request received: /iot/lab/message   (21:43:36)
+POST request received:
+Payload: Xin chao tu CoAP Client - B23DCCN040 - Nguyen Van Duc Anh (#1)
+Time: 21:43:36
+--------------------------------------------------
+POST request received:
+Payload: Xin chao tu CoAP Client - B23DCCN040 - Nguyen Van Duc Anh (#2)
+Time: 21:43:36
+--------------------------------------------------
+GET request received: /iot/lab/message   (21:43:36)
+
+Server da dung.

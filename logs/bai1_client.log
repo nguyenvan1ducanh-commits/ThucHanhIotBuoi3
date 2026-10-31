@@ -1,0 +1,31 @@
+CoAP Client
+
+Sending GET request...
+URI: coap://127.0.0.1:5683/iot/lab/message
+Response:
+Code: 2.05 Content
+Payload: Xin chao tu CoAP Server
+
+Sending POST request...
+Payload: Xin chao tu CoAP Client - B23DCCN040 - Nguyen Van Duc Anh (#1)
+Response:
+Code: 2.04 Changed
+Payload: Server da nhan thong diep
+
+Sending POST request...
+Payload: Xin chao tu CoAP Client - B23DCCN040 - Nguyen Van Duc Anh (#2)
+Response:
+Code: 2.04 Changed
+Payload: Server da nhan thong diep
+
+Sending GET request (sau khi POST)...
+Response:
+Code: 2.05 Content
+Payload: Xin chao tu CoAP Server | Thong diep gan nhat: Xin chao tu CoAP Client - B23DCCN040 - Nguyen Van Duc Anh (#2)
+
+Sending GET request toi tai nguyen khong ton tai...
+URI: coap://127.0.0.1:5683/iot/lab/khong_ton_tai
+Response:
+Code: 4.04 Not Found
+Payload: (trong)
+

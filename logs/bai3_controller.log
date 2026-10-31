@@ -1,0 +1,29 @@
+Light Controller - server 127.0.0.1:5683 - kieu ban tin: CON
+
+Nhap lenh (ON/OFF/STATUS/EXIT): ON
+Sending PUT request...
+Response Code: 2.04 Changed
+Da bat den light01
+
+Nhap lenh (ON/OFF/STATUS/EXIT): STATUS
+Sending GET request...
+Response:
+{"device_id":"light01","status":"ON","timestamp":"2026-10-31T21:44:08"}
+
+Nhap lenh (ON/OFF/STATUS/EXIT): ON
+Sending PUT request...
+Response Code: 2.04 Changed
+Da bat den light01
+
+Nhap lenh (ON/OFF/STATUS/EXIT): OFF
+Sending PUT request...
+Response Code: 2.04 Changed
+Da tat den light01
+
+Nhap lenh (ON/OFF/STATUS/EXIT): BLINK
+Sending PUT request...
+Response Code: 4.00 Bad Request
+Server bao loi: Lenh khong hop le, chi chap nhan ON hoac OFF
+
+Nhap lenh (ON/OFF/STATUS/EXIT): EXIT
+Thoat controller.

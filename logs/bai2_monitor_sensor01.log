@@ -1,0 +1,52 @@
+Monitoring coap://127.0.0.1:5683/iot/lab/sensor01/data moi 3 giay  (Ctrl+C de dung)
+
+[21:43:39] Received sensor data  (2.3 ms)
+Device: sensor01
+Temperature: 30.2 C
+Humidity: 37.3 %
+CANH BAO: Do am thap
+------------------------------
+[21:43:42] Received sensor data  (1.6 ms)
+Device: sensor01
+Temperature: 33.1 C
+Humidity: 58.3 %
+Trang thai: Binh thuong
+------------------------------
+[21:43:45] Received sensor data  (1.4 ms)
+Device: sensor01
+Temperature: 25.4 C
+Humidity: 46.1 %
+Trang thai: Binh thuong
+------------------------------
+[21:43:48] Received sensor data  (1.5 ms)
+Device: sensor01
+Temperature: 25.0 C
+Humidity: 78.8 %
+Trang thai: Binh thuong
+------------------------------
+[21:43:51] Received sensor data  (1.8 ms)
+Device: sensor01
+Temperature: 32.3 C
+Humidity: 72.3 %
+Trang thai: Binh thuong
+------------------------------
+[21:43:54] Received sensor data  (1.9 ms)
+Device: sensor01
+Temperature: 31.7 C
+Humidity: 61.7 %
+Trang thai: Binh thuong
+------------------------------
+[21:43:57] Received sensor data  (2.8 ms)
+Device: sensor01
+Temperature: 29.7 C
+Humidity: 56.6 %
+Trang thai: Binh thuong
+------------------------------
+[21:44:00] Received sensor data  (2.5 ms)
+Device: sensor01
+Temperature: 32.4 C
+Humidity: 79.1 %
+Trang thai: Binh thuong
+------------------------------
+
+So lan GET thanh cong: 8, that bai: 0, thoi gian phan hoi trung binh: 2.0 ms

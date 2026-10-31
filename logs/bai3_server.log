@@ -1,0 +1,33 @@
+CoAP Smart Light Server started...
+Resource: /iot/lab/light01/status   (coap://127.0.0.1:5683/iot/lab/light01/status)
+
+New Observe registration received
+So client dang Observe light01: 1
+New Observe registration received
+So client dang Observe light01: 2
+PUT request received:
+Device: light01
+Command: ON
+Light state changed: OFF -> ON
+Notify observers: ON
+
+PUT request received:
+Device: light01
+Command: ON
+Trang thai khong doi (ON), khong gui thong bao
+
+PUT request received:
+Device: light01
+Command: OFF
+Light state changed: ON -> OFF
+Notify observers: OFF
+
+PUT request received:
+Device: light01
+Command: BLINK
+  [LOI] Lenh khong hop le: BLINK -> tra ve 4.00 Bad Request
+
+So client dang Observe light01: 1
+So client dang Observe light01: 0
+
+Server da dung.

@@ -1,0 +1,24 @@
+CoAP Sensor Server started on port 5683
+Resource: coap://127.0.0.1:5683/iot/lab/sensor01/data
+Resource: coap://127.0.0.1:5683/iot/lab/sensor02/data
+Resource: coap://127.0.0.1:5683/iot/lab/sensor03/data
+Du lieu cap nhat moi 3 giay  (Ctrl+C de dung)
+
+[21:43:39] GET /iot/lab/sensor01/data -> 30.2 C, 37.3 %
+[21:43:39] GET /iot/lab/sensor03/data -> 30.4 C, 59.5 %
+[21:43:42] GET /iot/lab/sensor01/data -> 33.1 C, 58.3 %
+[21:43:42] GET /iot/lab/sensor03/data -> 33.7 C, 67.1 %
+[21:43:45] GET /iot/lab/sensor01/data -> 25.4 C, 46.1 %
+[21:43:45] GET /iot/lab/sensor03/data -> 29.2 C, 79.7 %
+[21:43:48] GET /iot/lab/sensor01/data -> 25.0 C, 78.8 %
+[21:43:48] GET /iot/lab/sensor03/data -> 32.2 C, 36.9 %
+[21:43:51] GET /iot/lab/sensor01/data -> 32.3 C, 72.3 %
+[21:43:51] GET /iot/lab/sensor03/data -> 33.9 C, 76.6 %
+[21:43:54] GET /iot/lab/sensor01/data -> 31.7 C, 61.7 %
+[21:43:54] GET /iot/lab/sensor03/data -> 34.2 C, 53.0 %
+[21:43:57] GET /iot/lab/sensor03/data -> 29.3 C, 78.0 %
+[21:43:57] GET /iot/lab/sensor01/data -> 29.7 C, 56.6 %
+[21:44:00] GET /iot/lab/sensor03/data -> 28.0 C, 60.5 %
+[21:44:00] GET /iot/lab/sensor01/data -> 32.4 C, 79.1 %
+
+Server da dung.
